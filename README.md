@@ -1,4 +1,4 @@
-# Image-Classi-cation-via-Neural-Network
+# Image-Classification-via-Neural-Network
 Turkish Lira Banknote Dataset
 
 **Code Description:**
